@@ -18,7 +18,7 @@ end
 board #=> ["X", " ", " "]
 
 
-def
+def(input_to_index)
 
 board = ["X", " ", " "]
 end
