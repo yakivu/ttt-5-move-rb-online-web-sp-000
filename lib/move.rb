@@ -18,6 +18,7 @@ end
 board #=> ["X", " ", " "]
 
 
+def
 
-board(board, 0, "X")
 board = ["X", " ", " "]
+end
