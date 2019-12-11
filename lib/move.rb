@@ -7,11 +7,12 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-#to_i
+
 def update_array_at_with(array, index, value)
 array [index = value]
 end
 
-update_array_at_with(board, 0, "X")
+def(board, 0, "X")
+end
 # The element at index 0 of array 'board' is set to the value "X"
 board #=> ["X", " ", " "]
