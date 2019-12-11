@@ -11,5 +11,12 @@ input = gets.strip
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
+def update_array_at_with(array, index, value)
+array [index = value]
+end
+
+(board, 0, "X")
+
+board ["X", " ", " "]
 
 
