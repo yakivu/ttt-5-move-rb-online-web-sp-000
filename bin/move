@@ -5,14 +5,13 @@ require_relative '../lib/move.rb'
 # Code your CLI Here
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
-name = 
+name = gets.strip
+greeting(name)
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
-puts "Where would you like to go?"
-name = gets.strip
-greeting(name)
+
 
 def update_array_at_with(array, index, value)
 array [index = value]
