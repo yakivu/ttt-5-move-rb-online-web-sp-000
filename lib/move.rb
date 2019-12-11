@@ -12,13 +12,13 @@ end
 # array[index = value]
 # end
 
- def input(board, 0, "X")
- end
+# def input(board, 0, "X")
+# end
   # The element at index 0 of array 'board' is set to the value "X"
  # board #=> ["X", " ", " "]
 
 
-  #def(input_to_index)
+  def(input_to_index)
 
-  #board = ["X", " ", " "]
-  #end
+  board = ["X", " ", " "]
+  end
