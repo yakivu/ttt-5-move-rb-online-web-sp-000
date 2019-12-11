@@ -20,5 +20,5 @@ end
 
   def(input_to_index)
 
-  puts board = ["X", " ", " "]
+  puts "board = ["X", " ", " "]"
   end
